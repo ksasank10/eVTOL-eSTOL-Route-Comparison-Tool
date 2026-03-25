@@ -10,5 +10,8 @@ Engineering project focused on comparing eVTOL and eSTOL aircraft performance ac
 - Scores the performance of both aircraft types using a weighted system across multiple categories
 - Outputs scored recommendation with a generated rationale
 
+## Running Files
+To run the app, download all the MATLAB Code files into the same MATLAB directory. Then run the routecomparisontool_exported.m file and the app should display.
+
 For more information, please read the documentation.
   
