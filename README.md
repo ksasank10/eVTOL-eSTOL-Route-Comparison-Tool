@@ -10,4 +10,5 @@ Engineering project focused on comparing eVTOL and eSTOL aircraft performance ac
 - Scores the performance of both aircraft types using a weighted system across multiple categories
 - Outputs scored recommendation with a generated rationale
 
+For more information, please read the documentation.
   
